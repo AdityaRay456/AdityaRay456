@@ -9,6 +9,6 @@ a full-stack developer passionate about crafting comprehensive solutions from st
 
 💬 Open to discussions about tech, exciting projects, and innovative ideas!
 
-📫 Connect with me at [email-aray14149@gmail.com].
+📫 Connect with me at [aray14149@gmail.com].
 
 ✨ Dedicated to building the web, one line of code at a time.
