@@ -1,7 +1,7 @@
 👋 Hi there! I'm Aditya, 
 a full-stack developer passionate about crafting comprehensive solutions from start to finish.
 
-🔭 Proficient in front and backend technologies including [React, MEAN Stack, Angular js].
+🔭 Proficient in front and backend technologies including [React, MySQL, Node js].
 
 🌐 Enthusiastic about web development and contributing to open-source projects.
 
